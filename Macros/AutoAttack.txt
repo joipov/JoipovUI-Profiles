@@ -1,0 +1,3 @@
+#showtooltip
+/targetenemy [noexists][dead][help]
+/startattack

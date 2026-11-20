@@ -1,0 +1,3 @@
+#showtooltip Shoot
+/targetenemy [noexists][dead][help]
+/cast !Shoot
